@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Idw8WtoHOU4/kFtt+7/m+v+2Uz0I6MOyDDoCAS6qZtkl4TZqstxKjXzVOA4sqwIpZ3mrj0EgOH8XD8RmKXt6BA==",
+  "success": true,
+  "projectFilePath": "C:\\Eget\\Programmering\\Projekt\\NeilC\\Reactivities\\api\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blejs\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
