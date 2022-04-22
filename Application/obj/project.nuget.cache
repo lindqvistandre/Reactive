@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "iNoGjZ1Ggn2/CnVE2mJcFVThPZ8etrX6hAzf331YAvZyFjJ86FnCp9ROE83mXQHEkAbk/z34VTVNOk0V08OgTA==",
+  "dgSpecHash": "tTY7w6qYbOUIIIJA9Lr9N3ULxhfoqybQSVw932ArWWIL0p9g/mqg/zylQXMXhEksb4rsncf7oiD1/18M4MLSHQ==",
   "success": true,
   "projectFilePath": "C:\\Eget\\Programmering\\Projekt\\NeilC\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\blejs\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",

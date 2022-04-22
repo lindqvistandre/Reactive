@@ -13,6 +13,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
 <!-- <Nullable>enable</Nullable>      Göra denna nullable likt api.csproj?  -->
+<nullable>Disabled</nullable>
   </PropertyGroup>
 
 </Project>

@@ -58,3 +58,6 @@ C:\Eget\Programmering\Projekt\NeilC\Reactivities\API\bin\Debug\net6.0\runtimes\w
 C:\Eget\Programmering\Projekt\NeilC\Reactivities\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Eget\Programmering\Projekt\NeilC\Reactivities\API\bin\Debug\net6.0\Humanizer.dll
 C:\Eget\Programmering\Projekt\NeilC\Reactivities\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Eget\Programmering\Projekt\NeilC\Reactivities\api\bin\Debug\net6.0\MediatR.dll
+C:\Eget\Programmering\Projekt\NeilC\Reactivities\api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Eget\Programmering\Projekt\NeilC\Reactivities\api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
