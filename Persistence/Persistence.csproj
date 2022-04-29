@@ -5,6 +5,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.3" />
   </ItemGroup>
@@ -13,7 +14,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
 <!-- <Nullable>enable</Nullable>      Göra denna nullable likt api.csproj?  -->
-<nullable>Disabled</nullable>
+<Nullable>disable</Nullable>
   </PropertyGroup>
 
 </Project>

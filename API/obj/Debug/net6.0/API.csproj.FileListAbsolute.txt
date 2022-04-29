@@ -61,3 +61,5 @@ C:\Eget\Programmering\Projekt\NeilC\Reactivities\API\bin\Debug\net6.0\Microsoft.
 C:\Eget\Programmering\Projekt\NeilC\Reactivities\api\bin\Debug\net6.0\MediatR.dll
 C:\Eget\Programmering\Projekt\NeilC\Reactivities\api\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\Eget\Programmering\Projekt\NeilC\Reactivities\api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Eget\Programmering\Projekt\NeilC\Reactivities\api\bin\Debug\net6.0\AutoMapper.dll
+C:\Eget\Programmering\Projekt\NeilC\Reactivities\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

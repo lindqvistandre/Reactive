@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "hmKC7f2ROYaHxpKFU9QBsbzbCxZGNVvquF+rw/iFMjzgwb4zJncaAXjZw7NO3s0VH9DGnSKVNNAFWAAGWhp+tg==",
+  "dgSpecHash": "FLsJxk7aRwj7tDYwTZOeKzNjOQWEWdRNgbFcwAElDGgVs/6K2BxJU97cbDB772hUskwuJi/JVyGArejq50/h6g==",
   "success": true,
-  "projectFilePath": "C:\\Eget\\Programmering\\Projekt\\NeilC\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Eget\\Programmering\\Projekt\\NeilC\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\blejs\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\blejs\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.3\\microsoft.data.sqlite.core.6.0.3.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\blejs\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
